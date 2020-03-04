@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1008083653976",
+    "firebase_url": "https://fairy-6c964.firebaseio.com",
+    "project_id": "fairy-6c964",
+    "storage_bucket": "fairy-6c964.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008083653976:android:c846307aa21b912913412d",
+        "android_client_info": {
+          "package_name": "com.example.fairy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008083653976-cb8muos8n0dqiv2lboog5k48um692oqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fairy_app",
+            "certificate_hash": "83ca39b62c70c966fbafff9289d1cc78ebcf0d95"
+          }
+        },
+        {
+          "client_id": "1008083653976-paqo5sstht7b247mco91d0dqpqkbm9e2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMch4U26PeY70O9NDqRjgWJpvXEb33I5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008083653976-paqo5sstht7b247mco91d0dqpqkbm9e2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
